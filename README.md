@@ -30,7 +30,6 @@
 | Featured Products | Highlights the most-loved pieces and their prices |
 | Brand Values | Presents quality, curated selection, and timeless style |
 | About | Shares NOVA's story and design philosophy |
-| Call to Action | Promotes the collection and first-order delivery offer |
 | Footer | Contains quick links, contact information, and social links |
 
 ## Design Highlights
