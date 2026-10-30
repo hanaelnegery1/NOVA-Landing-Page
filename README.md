@@ -59,16 +59,22 @@
 ## Project Structure
 
 ```text
-NOVA/
-|-- index.html
-|-- css/
-|   `-- style.css
-|-- assets/
-|   `-- images/
-|       |-- hero-placeholder.jpeg
-|       |-- category-*-placeholder.jpeg
-|       |-- product-*-placeholder.jpeg
-|       `-- about-placeholder.jpeg
-`-- docs/
-    `-- PROJECT_DOCUMENTATION.md
+NOVA-Landing-Page/
+├── index.html
+├── README.md
+├── css/
+│   └── style.css
+└── assets/
+    └── images/
+        ├── logo.png
+        ├── hero-placeholder.jpeg
+        ├── about-placeholder.jpeg
+        ├── category-bags-placeholder.jpeg
+        ├── category-watches-placeholder.jpeg
+        ├── category-sunglasses-placeholder.jpeg
+        ├── category-accessories-placeholder.jpeg
+        ├── product-1-placeholder.jpeg
+        ├── product-2-placeholder.jpeg
+        ├── product-3-placeholder.jpeg
+        └── product-4-placeholder.jpeg
 ```
