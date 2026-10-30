@@ -14,8 +14,14 @@
 ## Preview
 
 <p align="center">
-  <img src="assets/images/hero-placeholder.jpeg" alt="NOVA landing page hero" width="400">
+  <img src="assets/images/hero-placeholder.jpeg" alt="NOVA landing page hero" width="500">
 </p>
+
+
+## Live Demo
+
+[View the NOVA landing page](https://hanaelnegery1.github.io/NOVA-Landing-Page/)
+
 
 ## About the Page
 
@@ -30,6 +36,7 @@
 | Featured Products | Highlights the most-loved pieces and their prices |
 | Brand Values | Presents quality, curated selection, and timeless style |
 | About | Shares NOVA's story and design philosophy |
+| Call to Action | Promotes the collection and first-order delivery offer |
 | Footer | Contains quick links, contact information, and social links |
 
 ## Design Highlights
@@ -48,3 +55,20 @@
 - CSS3
 - CSS Grid and Flexbox
 - Responsive media queries
+
+## Project Structure
+
+```text
+NOVA/
+|-- index.html
+|-- css/
+|   `-- style.css
+|-- assets/
+|   `-- images/
+|       |-- hero-placeholder.jpeg
+|       |-- category-*-placeholder.jpeg
+|       |-- product-*-placeholder.jpeg
+|       `-- about-placeholder.jpeg
+`-- docs/
+    `-- PROJECT_DOCUMENTATION.md
+```
