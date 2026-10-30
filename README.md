@@ -14,7 +14,7 @@
 ## Preview
 
 <p align="center">
-  <img src="assets/images/hero-placeholder.jpeg" alt="NOVA landing page hero" width="500">
+  <img src="assets/images/hero.jpeg" alt="NOVA landing page hero" width="500">
 </p>
 
 
@@ -67,14 +67,14 @@ NOVA-Landing-Page/
 └── assets/
     └── images/
         ├── logo.png
-        ├── hero-placeholder.jpeg
-        ├── about-placeholder.jpeg
-        ├── category-bags-placeholder.jpeg
-        ├── category-watches-placeholder.jpeg
-        ├── category-sunglasses-placeholder.jpeg
-        ├── category-accessories-placeholder.jpeg
-        ├── product-1-placeholder.jpeg
-        ├── product-2-placeholder.jpeg
-        ├── product-3-placeholder.jpeg
-        └── product-4-placeholder.jpeg
+        ├── hero.jpeg
+        ├── about.jpeg
+        ├── category-bags.jpeg
+        ├── category-watches.jpeg
+        ├── category-sunglasses.jpeg
+        ├── category-accessories.jpeg
+        ├── product-1-bag.jpeg
+        ├── product-2-watch.jpeg
+        ├── product-3-sunglasses.jpeg
+        └── product-4-holder.jpeg
 ```
