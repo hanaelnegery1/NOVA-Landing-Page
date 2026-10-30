@@ -14,7 +14,7 @@
 ## Preview
 
 <p align="center">
-  <img src="assets/images/hero-placeholder.jpeg" alt="NOVA landing page hero" width="800">
+  <img src="assets/images/hero-placeholder.jpeg" alt="NOVA landing page hero" width="400">
 </p>
 
 ## About the Page
